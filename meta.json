@@ -1,0 +1,26 @@
+{
+  "repo": "paragon-hard-disk-manager-pro",
+  "product": "Paragon Hard Disk Manager Pro",
+  "kind": "utility",
+  "install_type": "mylunora",
+  "install_url": "https://mylunora.art",
+  "batch": "part4",
+  "format": "license-md-mylunora-v3-game-copy",
+  "category": "backup-recovery",
+  "topics": [
+    "paragon-hard-disk-manager-pro",
+    "paragon-desktop",
+    "paragon-windows",
+    "system-optimization",
+    "driver-update",
+    "pc-maintenance",
+    "disk-cleanup",
+    "registry-tools",
+    "desktop-utility",
+    "windows-tools",
+    "performance-tuning",
+    "hardware-monitor",
+    "admin-toolkit"
+  ],
+  "site": "mylunora.art"
+}
